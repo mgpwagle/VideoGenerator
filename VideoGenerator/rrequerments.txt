@@ -1,0 +1,5 @@
+python -m venv aievn  # Replace 'myenv' with your desired environment name
+ aievn\Scripts\activate
+pip install openai moviepy requests Pillow pydub
+pip install python-dotenv
+pip install moviepy
